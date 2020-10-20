@@ -1,0 +1,24 @@
+baseline & detuned                              original emcee_pt runs			   Stopped
+baseline_checkpoint &  detuned_checkpoint	runs with small checkpoint interval	   Stopped
+baseline_updated   & detuned_updated		runs constrained priors 
+baseline_constraints & detuned_constraints	run with further constrained piors         Launched: 23:09:2020 19:27	Stopped
+baseline_init & detuned_init			run with fixed init conds		   Launched: 23/24/2020 23:30
+baseline_init2 & detuned_init2			run with fixed PSD times		   Launched: 24/09/2020 23:00
+baseline_01 & detuned_01			run with fixed injection file		   Launched: 25/09/2020 16:00	Stopped
+baseline_02 & detuned_02			run using relative model		   Launched: 25/09/2020 17:55	
+baseline_03 & detuned_03			run with fixed injection file		   Launched: 28/09/2020 23:00	Finished
+baseline_04 &					run with extended freqency band	HL	   Launched: 29/09/2020 17:00	Finished
+baseline_05 &					run with extended freq low		   Launched: 29/09/2020 18:00	Finished
+baseline_06 & detuned_06			run with non inj workflow		   Launched: 29/09/2020		Finished (error)
+baseline_07 &					run with variable sky location		   Launched
+baseline_08 &					variable ra&dc, extended freq, non inj	   Launched: 01/10/2020 21:45
+baseline_09 & detuned_09			baseline_04 with 10hz cutoff		   Launched: 
+baseline_10 &					distance as a variable (base_06)
+baseline_11 &					distance and skylocation		   Launched:
+baseline_12 &					var distance, uniform vol		   Launched: 
+baseline_13 &					var distance, no relative model		   Launched: 15/10/2020	Terminated 19/10/2020
+baseline_14 &					var distance, rel model, narrow prior	   Launched: 17/10/2020 1:00
+
+
+
+ 
