@@ -10,14 +10,15 @@ baseline_03 & detuned_03			run with fixed injection file		   Launched: 28/09/202
 baseline_04 &					run with extended freqency band	HL	   Launched: 29/09/2020 17:00	Finished
 baseline_05 &					run with extended freq low		   Launched: 29/09/2020 18:00	Finished
 baseline_06 & detuned_06			run with non inj workflow		   Launched: 29/09/2020		Finished (error)
-baseline_07 &					run with variable sky location		   Launched
+baseline_07 &					run with variable sky location		   Launched			Finished
 baseline_08 &					variable ra&dc, extended freq, non inj	   Launched: 01/10/2020 21:45
 baseline_09 & detuned_09			baseline_04 with 10hz cutoff		   Launched: 
-baseline_10 &					distance as a variable (base_06)
+baseline_10 &					distance as a variable (base_06)	   Launched:			Failed
 baseline_11 &					distance and skylocation		   Launched:
-baseline_12 &					var distance, uniform vol		   Launched: 
-baseline_13 &					var distance, no relative model		   Launched: 15/10/2020	Terminated 19/10/2020
-baseline_14 &					var distance, rel model, narrow prior	   Launched: 17/10/2020 1:00
+baseline_12 &					var distance, uniform vol		   Launched:			Failed
+baseline_13 &					var distance, not relative model	   Launched: 15/10/2020	Terminated 19/10/2020
+baseline_14 &					var distance, rel model, narrow prior	   Launched: 17/10/2020 1:00	Finished
+baseline_15 &					var distance, small epsilon		   Launched: 19/10/2020		Finished
 
 
 
